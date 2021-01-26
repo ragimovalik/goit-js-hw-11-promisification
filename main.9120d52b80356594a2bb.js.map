@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./index.js"],"names":[],"mappings":"uIAAA,gD","file":"main.9120d52b80356594a2bb.js","sourcesContent":["import './styles.css';\r\nimport './js/task-1.js';\r\nimport './js/task-2.js';\r\nimport './js/task-3.js';\r\n"],"sourceRoot":""}
