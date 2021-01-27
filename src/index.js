@@ -1,4 +1,4 @@
 import './styles.css';
-import './js/task-1.js';
-import './js/task-2.js';
-import './js/task-3.js';
+import './js/task1.js';
+import './js/task2.js';
+import './js/task3.js';
